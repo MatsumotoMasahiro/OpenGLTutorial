@@ -6,6 +6,10 @@
 #include <random>
 #include<glm/gtc/matrix_transform.hpp>
 
+
+
+
+
 enum EntityGroupId {
 	EntityGroupId_Player,
 	EntityGroupId_PlayerShot,
